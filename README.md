@@ -4,7 +4,7 @@
 
 - 🔭 En recherche d'**alternance**, secteur **Rennais/Nantais**
 
-- 📫 Me joindre : **eliotdupas13@gmail.com**
+- 📫 Me joindre : **eliotdupas@orange.fr**
 
 <h3 align="left">Mes réseaux :</h3>
 <p align="left">
