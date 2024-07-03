@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst et future IA & Data Engineer</h3>
 
 
-- 🔭 En recherche d'une **alternance**, secteur **Rennais/Nantais**
+- 🔭 En recherche d'**alternance**, secteur **Rennais/Nantais**
 
 - 📫 Me joindre : **eliotdupas13@gmail.com**
 
