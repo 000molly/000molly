@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst and future IA & Data Engineer from France</h3>
 
 
-- 🔭 I’m currently working on **improving my coding skills**
+- 🔭 I’m currently working on **improving my analysis skills**
 
 - 📫 How to reach me **eliotdupas13@gmail.com**
 
